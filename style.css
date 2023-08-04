@@ -1,0 +1,77 @@
+body {
+    background-color: skyblue;
+    bottom: 0;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: left;
+}
+
+h4{
+    text-align: center;
+}
+
+.row div{
+    float: left;
+    padding: 20px;
+    margin: 20px;
+}
+
+.row{
+    margin-left: 15%;
+}
+
+.main{
+    height: 200vh;
+    overflow: auto;
+    padding-bottom: 180px;
+}
+
+
+/*** Footer **/
+
+footer {
+    position: relative;
+    margin-top: -180px;
+    height: 180px;
+    clear: both;
+    background-color: black;
+    color: white;
+    width: 100%;
+    bottom: 0;
+    
+}
+
+.footer-social {
+    float: right;
+    text-align: end;
+    width: 300px;
+    
+}
+
+.footer-content {
+    width: 300px;
+    margin-right: 0;
+}
+
+.footer-bottom {
+    text-align:center;
+}
+
+.footer-contacts {
+    display: inline;
+    
+}
+
+.footer-contacts h3{
+    
+    margin-top: 0px;
+    
+}
+
